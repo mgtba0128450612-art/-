@@ -1,4 +1,4 @@
-# 🤖 WASI-MD-V7 - Advanced WhatsApp Multi-Device Bot
+# 🤖 𝑵𝑨𝑮𝑰 𝑩𝑶𝑻❄️ - Advanced WhatsApp Multi-Device Bot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-7.0.0-blue?style=for-the-badge" alt="Version">
